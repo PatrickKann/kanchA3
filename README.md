@@ -1,2 +1,7 @@
 # kanchA3
-Assignment 3 - Mobile Web-Based Application Development
+
+  SUMMER 2019
+  Mobile Web-Based Application Development
+  Assignment 3 
+  Author: Chun Ming Kan (Patrick)
+  kanch - 991477200
